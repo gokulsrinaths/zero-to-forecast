@@ -6,7 +6,7 @@
 *"Have We Reached the BERT Moment?"*
 
 [![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025_Workshop-purple)](https://neurips.cc/virtual/2025/loc/san-diego/130445)
-[![Paper](https://img.shields.io/badge/Paper-Zero--to--Forecast-blue)](https://github.com/gokulsrinaths/NL2TS-675)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-blue)](https://openreview.net/forum?id=lERfNeDzul)
 [![Dataset](https://img.shields.io/badge/Dataset-675_pairs-orange)](nl2ts_675.jsonl)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
@@ -203,12 +203,12 @@ print("Pattern distribution:", dict(Counter(x["uid"].split("_")[1] for x in data
 If you use NL2TS-675 in your research, please cite:
 
 ```bibtex
-@inproceedings{seetharam2025zerotofore,
+@inproceedings{ram2025zerotoforecast,
   title     = {Zero-to-Forecast: Natural Language to Time Series Prediction via Cross-Modal Ensembles},
-  author    = {Seetha Ram, Gokul Srinath},
-  booktitle = {NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models},
+  author    = {Gokul Srinath Seetha Ram},
+  booktitle = {Recent Advances in Time Series Foundation Models Have We Reached the 'BERT Moment'?},
   year      = {2025},
-  url       = {https://neurips.cc/virtual/2025/loc/san-diego/130445}
+  url       = {https://openreview.net/forum?id=lERfNeDzul}
 }
 ```
 
@@ -218,6 +218,7 @@ If you use NL2TS-675 in your research, please cite:
 
 | Resource | Link |
 |----------|------|
+| **Paper (OpenReview)** | [openreview.net/forum?id=lERfNeDzul →](https://openreview.net/forum?id=lERfNeDzul) |
 | **NeurIPS 2025 listing** | [neurips.cc →](https://neurips.cc/virtual/2025/loc/san-diego/130445) |
 | **Main code repository** | [github.com/gokulsrinaths/NL2TS-675](https://github.com/gokulsrinaths/NL2TS-675) |
 
