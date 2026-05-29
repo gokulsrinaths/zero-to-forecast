@@ -6,7 +6,8 @@
 *"Have We Reached the BERT Moment?"*
 
 [![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025_Workshop-purple)](https://neurips.cc/virtual/2025/loc/san-diego/130445)
-[![Paper](https://img.shields.io/badge/Paper-OpenReview-blue)](https://openreview.net/forum?id=lERfNeDzul)
+[![Paper](https://img.shields.io/badge/Paper-NeurIPS_2025-blue)](https://neurips.cc/virtual/2025/loc/san-diego/130445)
+[![OpenReview](https://img.shields.io/badge/OpenReview-lERfNeDzul-red)](https://openreview.net/forum?id=lERfNeDzul)
 [![Dataset](https://img.shields.io/badge/Dataset-675_pairs-orange)](nl2ts_675.jsonl)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
@@ -22,10 +23,10 @@ California State Polytechnic University, Pomona
 
 **NL2TS-675** is the benchmark dataset introduced alongside the paper:
 
-> **Zero-to-Forecast: Natural Language to Time Series Prediction via Cross-Modal Ensembles**
+> **[Zero-to-Forecast: Natural Language to Time Series Prediction via Cross-Modal Ensembles](https://neurips.cc/virtual/2025/loc/san-diego/130445)**
 > Gokul Srinath Seetha Ram — *NeurIPS 2025 Workshop: Recent Advances in Time Series Foundation Models (BERT2S)*
 > San Diego · December 7, 2025 · 3:45 PM – 4:45 PM PST
-> [NeurIPS listing →](https://neurips.cc/virtual/2025/loc/san-diego/130445)
+> [NeurIPS listing →](https://neurips.cc/virtual/2025/loc/san-diego/130445) · [OpenReview →](https://openreview.net/forum?id=lERfNeDzul)
 
 The dataset contains **675 natural language description–time series pairs** spanning six real-world domains and five canonical temporal patterns, designed specifically to benchmark the emerging task of **zero-data NL→TS forecasting** — generating a numeric time series directly from a free-form text description, without any historical data.
 
