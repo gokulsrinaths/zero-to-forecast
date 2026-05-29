@@ -221,7 +221,7 @@ If you use NL2TS-675 in your research, please cite:
 |----------|------|
 | **Paper (OpenReview)** | [openreview.net/forum?id=lERfNeDzul →](https://openreview.net/forum?id=lERfNeDzul) |
 | **NeurIPS 2025 listing** | [neurips.cc →](https://neurips.cc/virtual/2025/loc/san-diego/130445) |
-| **Main code repository** | [github.com/gokulsrinaths/NL2TS-675](https://github.com/gokulsrinaths/NL2TS-675) |
+| **Main code repository** | [github.com/gokulsrinaths/zero-to-forecast](https://github.com/gokulsrinaths/zero-to-forecast) |
 
 ---
 
