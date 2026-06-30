@@ -8,7 +8,8 @@
 [![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025_Workshop-purple)](https://neurips.cc/virtual/2025/loc/san-diego/130445)
 [![Paper](https://img.shields.io/badge/Paper-NeurIPS_2025-blue)](https://neurips.cc/virtual/2025/loc/san-diego/130445)
 [![OpenReview](https://img.shields.io/badge/OpenReview-lERfNeDzul-red)](https://openreview.net/forum?id=lERfNeDzul)
-[![Dataset](https://img.shields.io/badge/Dataset-675_pairs-orange)](nl2ts_675.jsonl)
+[![Dataset](https://img.shields.io/badge/Dataset-675_pairs-orange)](https://huggingface.co/datasets/gokulsrinath/NL2TS-675)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/gokulsrinath/NL2TS-675)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 **Gokul Srinath Seetha Ram**

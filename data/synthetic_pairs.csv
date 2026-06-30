@@ -1,0 +1,52 @@
+description,time_series,domain,length
+"Sales dropped in Q1 and Q2, then surged in Q3 after a campaign.",[100, 95, 92, 130, 150],finance,5
+"Energy usage spiked at the top of each hour due to backup jobs, then dropped after.",[40, 90, 45, 90, 42, 85, 40],iot,7
+"The stock dipped after earnings, stayed flat for two days, then rebounded slightly by Friday.",[100, 90, 89, 89, 91, 93],finance,6
+"Temperature increased steadily from morning to afternoon, then dropped in the evening.",[15, 18, 22, 25, 20, 16],weather,6
+"Website traffic peaked during lunch hours and decreased during off-peak times.",[50, 120, 80, 130, 70, 45],web,6
+"Blood pressure readings showed a gradual decline over the week of medication.",[140, 138, 135, 132, 130, 128, 125],healthcare,7
+"Server CPU usage remained high during business hours and low overnight.",[85, 90, 88, 92, 30, 25, 28],iot,7
+"Product demand increased sharply after the marketing campaign launch.",[50, 55, 80, 120, 150, 180],retail,6
+"Rainfall was heavy on Monday, light on Tuesday, then increased again by Thursday.",[25, 5, 8, 20, 15],weather,5
+"Customer satisfaction scores improved gradually after the service improvements.",[3.2, 3.4, 3.6, 3.8, 4.0, 4.2],service,6
+"Battery level decreased linearly throughout the day of heavy usage.",[100, 85, 70, 55, 40, 25],iot,6
+"Revenue growth was slow in January, accelerated in February, then stabilized in March.",[100, 105, 120, 140, 145, 148],finance,6
+"Network latency spiked during peak hours and returned to normal during off-peak.",[20, 45, 50, 25, 20, 18],tech,6
+"Patient heart rate increased during exercise and gradually returned to baseline.",[70, 85, 95, 110, 90, 75, 70],healthcare,7
+"Social media engagement peaked on weekends and was lower on weekdays.",[30, 25, 20, 25, 80, 90, 35],social,7
+"Production output decreased due to equipment maintenance, then recovered.",[100, 95, 60, 65, 90, 95],manufacturing,6
+"App downloads surged after the app store feature, then gradually declined.",[10, 15, 80, 120, 90, 60, 40],mobile,7
+"Air quality improved steadily after the rain, then deteriorated again.",[45, 35, 25, 20, 30, 40],environmental,6
+"Subscription cancellations increased after the price hike, then stabilized.",[5, 8, 15, 20, 18, 17],saas,6
+"Delivery times were longer during holidays and returned to normal after.",[2, 2.5, 4, 3.5, 2.2, 2],logistics,6
+"Employee productivity increased after the new software implementation.",[75, 78, 82, 85, 88, 90],hr,6
+"Water consumption was highest in the morning and evening, lowest at night.",[30, 80, 40, 35, 90, 25],utilities,6
+"Credit card fraud attempts peaked during holiday shopping season.",[5, 8, 12, 20, 15, 10],security,6
+"Software bug reports decreased after the major update release.",[25, 20, 15, 10, 8, 6],software,6
+"Gas prices increased gradually over the month due to supply constraints.",[2.50, 2.55, 2.60, 2.65, 2.70, 2.75],energy,6
+"Customer support tickets spiked after the new feature release.",[10, 15, 25, 40, 30, 20],support,6
+"Website conversion rate improved after the UI redesign.",[2.1, 2.3, 2.8, 3.2, 3.5, 3.7],ecommerce,6
+"Server response time degraded during the database migration.",[100, 120, 150, 180, 140, 110],infrastructure,6
+"Mobile app crashes decreased after the stability update.",[15, 12, 10, 8, 6, 4],mobile,6
+"Email open rates were highest on Tuesday and lowest on weekends.",[25, 35, 30, 28, 20, 15, 18],marketing,7
+"API response times increased during peak traffic hours.",[50, 80, 120, 100, 60, 45],api,6
+"Product returns increased after the holiday season ended.",[5, 8, 12, 15, 10, 7],retail,6
+"System uptime improved after the infrastructure upgrade.",[95, 96, 97, 98, 99, 99.5],infrastructure,6
+"Customer churn rate decreased after implementing the loyalty program.",[8, 7, 6, 5, 4, 3],saas,6
+"Data center power consumption was highest during business hours.",[60, 80, 85, 90, 75, 50],infrastructure,6
+"User session duration increased after the content recommendation feature.",[5, 6, 8, 10, 12, 14],analytics,6
+"Payment processing errors spiked during the system maintenance window.",[2, 3, 8, 12, 5, 2],fintech,6
+"Search engine rankings improved after the SEO optimization.",[15, 18, 22, 25, 28, 30],seo,6
+"Database query performance degraded as the dataset grew larger.",[100, 120, 150, 180, 220, 250],database,6
+"Mobile app ratings increased after the user interface improvements.",[3.5, 3.7, 4.0, 4.2, 4.4, 4.5],mobile,6
+"Cloud storage usage grew steadily as more users joined the platform.",[100, 120, 145, 175, 210, 250],cloud,6
+"Customer acquisition cost decreased after the marketing automation implementation.",[50, 48, 45, 42, 40, 38],marketing,6
+"API rate limit violations increased during the peak usage period.",[5, 8, 12, 15, 10, 7],api,6
+"Product defect rate decreased after the quality assurance improvements.",[8, 7, 6, 5, 4, 3],manufacturing,6
+"Network bandwidth usage was highest during video streaming hours.",[20, 40, 60, 80, 50, 30],network,6
+"Customer lifetime value increased after the personalized marketing campaign.",[100, 110, 125, 140, 155, 170],analytics,6
+"System memory usage grew gradually as more applications were deployed.",[40, 45, 50, 55, 60, 65],infrastructure,6
+"Email bounce rate decreased after cleaning the subscriber list.",[5, 4.5, 4, 3.5, 3, 2.5],email,6
+"Mobile app download speed improved after the CDN implementation.",[3, 2.8, 2.5, 2.2, 2, 1.8],performance,6
+"Database backup completion time increased as the data volume grew.",[10, 12, 15, 18, 22, 25],database,6
+"Customer satisfaction survey response rate improved after simplifying the process.",[15, 18, 22, 25, 28, 30],survey,6
